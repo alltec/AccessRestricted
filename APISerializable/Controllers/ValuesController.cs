@@ -20,7 +20,9 @@ namespace APISerializable.Controllers
                 new Employee() {
                 EmpNumber=35, EmpName="Vishal Bajaj"},
                 new Employee() {
-                EmpNumber=36, EmpName="Ashutosh Dikshit"}
+                EmpNumber=36, EmpName="Ashutosh Dikshit"},
+                new Employee() {
+                EmpNumber=37, EmpName="D Panda"}
             };
         }
 
